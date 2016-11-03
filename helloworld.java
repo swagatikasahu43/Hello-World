@@ -1,5 +1,5 @@
 /*
-Java Hello World example.
+Java simple example.
 */
  
 public class HelloWorldExample{
